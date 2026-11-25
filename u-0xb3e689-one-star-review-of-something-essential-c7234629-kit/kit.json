@@ -1,0 +1,53 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "u-0xb3e689-one-star-review-of-something-essential-c7234629",
+  "phase": "dev",
+  "bundle_sha256": "0e2223c940269a4b8ca6a3ce663b9a4a428b0fe36b73ac719e3ebb508eabc83b",
+  "dataset_sha256": null,
+  "harness_version": "harness@c62b0ab7dd3f8c0410c8b3e90da98acb5fa7d898d1a3019dfd35d7425c924ed0 node v26.13.1",
+  "scorer_version": "scorer@26f98e34b4f52a6a2397ca67a70991ab647397739e33e0d77f1ad00b3fc97cda program@49e164c1bcda970b1d451c8e371f5fe6c2f1b7dd483219cc1745c0493c9784e3",
+  "pricing_rev": "34d1007cd9dd19a1d751a8b87e79e95c181a94b3e791b1a546de6dac11435dbe",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "ebf24ca7aa4d8a852de4746131cd4f20717e95dc6466447ae663cc31922ce4b2",
+      "size": 74341
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "bc2493fa8f9b2cef181d3b254fab6b9d2a3bf0beee8f664185b5907b9318e8c9",
+      "size": 17966450
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "20e63424a5920eb0551a5d0a22bd745c9c0768639344c1d6ef31010f9852f0d5",
+      "size": 27533
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "f884e84134eb7b2562926acd28d687f7e301be794d12be785b1a455c6d5dbb62",
+      "size": 20967
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "5237c66fdfebf05fbfbcda5ddfb615c94f02b9eb2228593694fdf34e61b6ba62",
+      "size": 20967
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "b39f771825c87a4319e155c88b3ee9f5711137568dbb3dc0e804aafb22779cc6",
+      "size": 3186199
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "009f1cf41bda0d8e846ff551c311c29ee73a088927329ab60d268d1946031e5c",
+      "size": 85
+    }
+  ]
+}
